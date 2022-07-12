@@ -4,9 +4,11 @@ CÓDIGO: sistema solar.c
 
 
 
-TRAYECTORIAS: los archivos con el número 1 muestran todos los planetas mientra que los archivos sin número muestran solo 6 planetas para que se pueda apreciar mejor la trayectoria de los planetas más cercanos al Sol.
+TRAYECTORIAS: los archivos con el número 1 muestran todos los planetas mientras que los archivos sin número muestran solo 6 planetas para que se pueda apreciar mejor la trayectoria de los planetas más cercanos al Sol.
 
 trayectorias heliocentricas (heliocentrico.gif, heliocentrico1.gif)
+
+trayectoria heliocentrica con las velocidades de mercurio, tierra, júpiter y urano cambiadas de signo (heliocentrico2.gif)
 
 Trayectorias geocéntricas (geocentrico.gif, geocentrico1.gif)
 
