@@ -31,3 +31,5 @@ Saturno: 10990 (10752)
 Urano: 30356 (30663)
 
 Neptuno: 57904 (60148)
+
+CONSERVACIÓN DE ENERGÍA: Energiatotal.png
